@@ -10,8 +10,8 @@ class CustomLabelsRangeSlider extends StatelessWidget {
       {super.key,
       required this.labels,
       required this.onChanged,
-      this.selectedStart = 0,
-      this.selectedEnd = 0});
+      required this.selectedStart,
+      required this.selectedEnd});
 
   @override
   Widget build(BuildContext context) {

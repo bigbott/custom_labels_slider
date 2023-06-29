@@ -9,7 +9,7 @@ class CustomLabelsSlider extends StatelessWidget {
       {super.key,
       required this.labels,
       required this.onChanged,
-      this.selectedIndex = 0});
+      required this.selectedIndex});
 
   @override
   Widget build(BuildContext context) {
