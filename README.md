@@ -1,3 +1,4 @@
 # custom_labels_slider
 
-A new Flutter project.
+Flutter Slider and RangeSlider with custom labels. 
+
